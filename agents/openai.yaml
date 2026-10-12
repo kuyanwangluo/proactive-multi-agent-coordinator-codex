@@ -1,0 +1,4 @@
+interface:
+  display_name: "Proactive Multi-Agent Coordinator"
+  short_description: "Clarify needs, coordinate specialist work, and keep decisions with the user."
+  default_prompt: "Use $proactive-multi-agent-coordinator to help me clarify this task, identify important choices, coordinate specialist work where available, and verify the result."
